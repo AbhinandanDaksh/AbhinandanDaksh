@@ -30,15 +30,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <details>
  <summary>
     <h2> 
-      <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/about.png" width="37" /> 
+      <img align="center" src="https://drive.google.com/file/d/1GoI-uLXdykw0Xwnp4g2AykxQNm89orni/view" width="37" /> 
     Resume
     </h2>
 </summary>
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[AbhinandanDaksh]/[AbhinandanDaksh]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-7.4-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
