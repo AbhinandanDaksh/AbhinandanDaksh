@@ -39,7 +39,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge">2024 </span>
   <span><img src="https://img.shields.io/badge/GPA-7.4-EFEEE9?style=for-the-badge"></span>
  </details>
 
