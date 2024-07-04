@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 I'm a developer with a mission to leverage my skills and creativity to deliver innovative solutions that exceed client expectations and contribute positively to the digital landscape. I am committed to continuous learning and growth, always seeking new challenges and opportunities to expand my horizons. Collaboration and teamwork are at the core of my work ethic, and I enjoy working with others to bring ideas to life.
 
 
-<details>
+
  <summary>
     <h2> 
       <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume.jpg" width="37" /> 
@@ -36,6 +36,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
     </h2>
 </summary>
 
+ <details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
