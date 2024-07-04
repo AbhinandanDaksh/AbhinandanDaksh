@@ -144,3 +144,6 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
   </div>
 </details>
+
+
+<h1>Thank you for visiting my profile! If you have any questions or just want to say hi, don't hesitate to get in touch. Let's connect and create something awesome!</h1>
