@@ -30,10 +30,10 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
  <summary>
-    <h2> 
+    <h4> 
       <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume.jpg" width="37" /> 
     Resume
-    </h2>
+    </h4>
 </summary>
 
 
@@ -146,4 +146,4 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 </details>
 
 
-<h1>Thank you for visiting my profile! If you have any questions or just want to say hi, don't hesitate to get in touch. Let's connect and create something awesome!</h1>
+<h4>Thank you for visiting my profile! If you have any questions or just want to say hi, don't hesitate to get in touch. Let's connect and create something awesome!</h4>
