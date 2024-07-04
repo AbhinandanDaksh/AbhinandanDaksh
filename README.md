@@ -124,10 +124,12 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 <details>
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Contact Me</h4></summary>
   <p>
-    <h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" width="29"/> Gmail</h4>
+    <h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" width="50"/></h4>
+    <h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" width="50"/></h4>
+    <h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/LINKEDIN.gif" width="50"/></h4>
+<!--     <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a>
     <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a>
-    <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a>
-    <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a>
+    <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a> -->
     <i>You can reach out to me via</i>
     <a href="mailto:[your-email]">
       <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/" width="100"/>
