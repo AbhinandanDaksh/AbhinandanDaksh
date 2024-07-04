@@ -108,7 +108,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/stats.gif" width="32"/> Stats</h2>
+  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
       <div align="center">
         
   ![](https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
