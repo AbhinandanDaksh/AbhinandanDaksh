@@ -122,11 +122,11 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Contact Me</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Contact Me</h4></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Gmail.gif" width="100"/>
+      <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="100"/>
     </a>
   </p>
 </details>
