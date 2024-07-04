@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhinandanDakshxxxxxxxxxxxxxx&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
-  <a href="https://portfolio-git-main-abhinandans-projects-c6b64fa8.vercel.app/">
+  <a href='https://portfolio-jade-two-40.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
@@ -37,7 +37,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 </summary>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[AbhinandanDaksh]/[AbhinandanDaksh]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-7.4-EFEEE9?style=for-the-badge"></span>
  </details>
