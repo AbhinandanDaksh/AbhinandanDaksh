@@ -46,7 +46,10 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[AbhinandanDaksh]/[AbhinandanDaksh]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
+  - **Intern ** at ICT Academy,
+    - Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-
+priority assignments.
+    - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant
+work situations.
  </details>
 
