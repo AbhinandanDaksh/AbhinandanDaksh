@@ -78,8 +78,31 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</span>
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) </span>
   - Implemented secure payment processing functionality, enabling users to securely purchase courses using industry-standard encryption techniques and payment gateways.
   - Real-time Feedback: Instant feedback on code submissions to help users understand their mistakes and improve.
   - User Profiles and Leaderboards: Profiles showcasing user achievements and leaderboards to highlight top performers.
+
+
+#### <a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a>
+  <span>
+    
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
+  - Integrated a weather API to fetch real-time weather data, and that is user-friendly, with a clear and intuitive interface. Parsed and displayed the retrieved weather information, including temperature, humidity, and conditions.
+  - The primary goal of a weather forecasting app is to offer users the ability to plan their activities based on anticipated weather conditions
+  - Location-Based Services: Allows users to search for weather information by city or use geolocation to get weather data for their current location.
+
+
+#### <a href="https://abhinandandaksh.github.io/JasStoreProject/">Jas Store</a>
+  <span>
+    
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </span>
+  - User-Friendly Navigation: Easy maneuvering through categories and products using a clean and intuitive interface.
+  - Shopping Cart: Allows users to add items to their cart, view cart details, and proceed to checkout.
 </details>
