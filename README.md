@@ -77,7 +77,9 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</span>
+  - Implemented secure payment processing functionality, enabling users to securely purchase courses using industry-standard encryption techniques and payment gateways.
+  - Real-time Feedback: Instant feedback on code submissions to help users understand their mistakes and improve.
+  - User Profiles and Leaderboards: Profiles showcasing user achievements and leaderboards to highlight top performers.
 </details>
