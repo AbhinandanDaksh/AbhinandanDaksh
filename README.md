@@ -67,3 +67,14 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 </details>
+
+
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+
+  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented features to notify users about new opportunities.
+  - Achieved a user base of X, surpassing initial projections.
+</details>
