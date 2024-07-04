@@ -106,3 +106,13 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   - User-Friendly Navigation: Easy maneuvering through categories and products using a clean and intuitive interface.
   - Shopping Cart: Allows users to add items to their cart, view cart details, and proceed to checkout.
 </details>
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+  </div>
+</details>
