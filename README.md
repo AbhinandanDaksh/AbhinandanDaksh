@@ -45,7 +45,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
  </details>
 
  <details>
-  <summary><h4> <img align="center" src="https://github.com/[AbhinandanDaksh]/[AbhinandanDaksh]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/exprience.gif" width="29"/> Experience</h4></summary>
    <h4>Intern</h4>ICT Academy
    <br>
     - Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.
