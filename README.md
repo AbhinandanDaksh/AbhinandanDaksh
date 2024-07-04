@@ -108,7 +108,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="32"/> Stats</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Stats</h4></summary>
       <div align="center">
         
   ![](https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
@@ -122,7 +122,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[your-email]">
