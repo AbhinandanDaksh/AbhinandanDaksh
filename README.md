@@ -125,7 +125,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Contact Me</h4></summary>
   <p>
     <a href="mailto:[your-email]">
-    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="height:100px">
+    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="height:100px border-radius: 50%">
     </a>
     <a href="https://www.instagram.com/_abhinandan_daksh_/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" alt="Portfolio" style="height:100px">
