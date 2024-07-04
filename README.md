@@ -118,3 +118,15 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
   </div>
 </details>
+
+
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
