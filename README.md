@@ -71,7 +71,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/project.mp4" width="29"/> Projects</h4></summary>
+  <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/project(1).gif" width="29"/> Projects</h4></summary>
 
   #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
