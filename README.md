@@ -126,7 +126,13 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   <p>
     <a href="mailto:[your-email]">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="height:22px">
-  </a>
+    </a>
+    <a href="mailto:[your-email]">
+    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="height:22px">
+    </a>
+    <a href="mailto:[your-email]">
+    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="height:22px">
+    </a>
       <p><img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" width="50"/><a href="mailto:[your-email]"></a> </p>
     <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" width="50"/>
     <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/LINKEDIN.gif" width="50"/></h4>
