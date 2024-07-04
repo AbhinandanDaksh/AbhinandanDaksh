@@ -36,7 +36,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
     </h2>
 </summary>
 
- <details>
+
  <details>
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
   <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
@@ -48,4 +48,4 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   - **[Your Role] ** at [Company] | [Duration]
     - [Work Description]
  </details>
-</details>
+
