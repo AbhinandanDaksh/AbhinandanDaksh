@@ -120,12 +120,20 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 </details>
 
 
+<style>
+        .circular-image {
+            height: 100px;
+            width: 100px;
+            border-radius: 50%; /* Makes the image circular */
+            object-fit: cover; /* Ensures the image covers the container without distortion */
+        }
+    </style>
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/> Contact Me</h4></summary>
   <p>
     <a href="mailto:[your-email]">
-    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" style="border-radius:50%">
+    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Portfolio" class="circular-image ">
     </a>
     <a href="https://www.instagram.com/_abhinandan_daksh_/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" alt="Portfolio" style="height:100px">
