@@ -132,6 +132,9 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
     <a href="https://www.linkedin.com/in/abhinandan-daksh-788a9a243/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/LINKEDIN.gif" alt="Portfolio" style="height:100px">
     </a>
+    <a href="https://x.com/Abhinandan_2712">
+    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/twitter.gif" alt="Portfolio" style="height:100px">
+    </a>
   </p>
 </details>
 
