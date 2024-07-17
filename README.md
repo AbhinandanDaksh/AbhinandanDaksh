@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /><h2>About me</h2>
 I'm a developer with a mission to leverage my skills and creativity to deliver innovative solutions that exceed client expectations and contribute positively to the digital landscape. I am committed to continuous learning and growth, always seeking new challenges and opportunities to expand my horizons. Collaboration and teamwork are at the core of my work ethic, and I enjoy working with others to bring ideas to life.
 
-
-
  <summary>
     <h4> 
       <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume_.jpg" width="37" /> 
