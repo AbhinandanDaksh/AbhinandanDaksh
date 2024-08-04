@@ -39,7 +39,7 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
   <summary><h4> <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/giphy.gif" width="29"/> Academics</h4></summary>
   <h3>R D Engineering College 2024</h3>
   <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-7.4-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-7.8-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
