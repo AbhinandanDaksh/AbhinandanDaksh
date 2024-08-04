@@ -99,8 +99,8 @@
 <h3>Stats</h3>
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=blue_navy&hide_border=false"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/>
