@@ -29,8 +29,9 @@ I'm a developer with a mission to leverage my skills and creativity to deliver i
 
  <summary>
     <h4> 
+      <h2>Resume</h2>
       <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume_.jpg" width="37" /> 
-    Resume
+
     </h4>
 </summary>
 
