@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Razorpay-0C2451.svg?style=for-the-badge&logo=Razorpay&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white">
+  
 </p>
 <ul>
   <li>Implemented secure payment processing functionality, enabling users to securely purchase courses using industry-standard encryption techniques and payment gateways.</li>
@@ -124,11 +126,11 @@
   </a>
 </p>
 
-<details>
+
   <summary>Click to see a random joke</summary>
   <div align="center">
     <img src="https://readme-jokes.vercel.app/api?theme=halloween">
   </div>
-</details>
+
 
 <h4>Thank you for visiting my profile! If you have any questions or just want to say hi, don't hesitate to get in touch. Let's connect and create something awesome!</h4>
