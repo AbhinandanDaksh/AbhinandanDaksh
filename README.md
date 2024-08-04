@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Fullstack Developer
   <a href="https://portfolio-jade-two-40.vercel.app/">
     ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+<!--     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;"> -->
   </a>
 </h2>
 <div align="center">
