@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi👋, I'm Abhinandan</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:52px;">
+  <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://portfolio-jade-two-40.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:22px;" >
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;" >
 <!--     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;"> -->
   </a>
 </h2>
