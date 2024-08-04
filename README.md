@@ -97,23 +97,13 @@
 </ul>
 
 <h3>Stats</h3>
-# 📊 GitHub Stats:
+<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=blue_navy&hide_border=false"><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinandanDaksh&theme=high-contrast">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/>
-<!-- <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=tokyonight&hide_border=false)
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=AbhinandanDaksh&theme=tokyo-night)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
--->
 
 <h3>Contact Me</h3>
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/contact.gif" width="29"/>
@@ -135,7 +125,7 @@
 <details>
   <summary>Click to see a random joke</summary>
   <div align="center">
-    ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+    <img src="https://readme-jokes.vercel.app/api?theme=halloween">
   </div>
 </details>
 
