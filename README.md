@@ -17,9 +17,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://portfolio-jade-two-40.vercel.app/">
-    <
-    ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-    >
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" >
 <!--     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;"> -->
   </a>
 </h2>
