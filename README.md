@@ -106,8 +106,9 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=blue_navy&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinandanDaksh&theme=high-contrast">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+
 </div>
 
 <h3>Contact Me</h3>
