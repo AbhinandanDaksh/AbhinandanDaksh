@@ -78,7 +78,7 @@
 
 <h4><a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a></h4>
 <p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -104,7 +104,7 @@
 <h3>Stats</h3>
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/statistics.gif" width="29"/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=blue_navy&hide_border=false"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinandanDaksh&theme=high-contrast">
