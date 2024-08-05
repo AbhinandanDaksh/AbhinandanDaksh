@@ -38,8 +38,7 @@
 
 
 
-<h3>Tech Stack</h3>
-<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/techstack.gif" width="29"/>
+## Tech Stack 🖥:<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/techstack.gif" width="29"/>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
