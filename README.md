@@ -22,16 +22,14 @@
 
 
  
-<h3>Academics</h3>
-<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/giphy.gif" width="29"/>
+## Academics: <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/giphy.gif" width="29"/>
 <p>R D Engineering College 2024</p>
 <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/GPA-7.8-EFEEE9?style=for-the-badge"></span>
 
 
 
-<h3>Experience</h3>
-<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/exprience.gif" width="29"/>
+## Experience: <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/exprience.gif" width="29"/>
 <p>Intern at ICT Academy</p>
 <ul>
   <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li>
