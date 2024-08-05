@@ -22,14 +22,14 @@
 
 
  
-## Academics: <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/giphy.gif" width="29"/>
+## Academics 👨🏻‍🎓: 
 <p>R D Engineering College 2024</p>
 <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/GPA-7.8-EFEEE9?style=for-the-badge"></span>
 
 
 
-## Experience: <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/exprience.gif" width="29"/>
+## Experience 🏫: 
 <p>Intern at ICT Academy</p>
 <ul>
   <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li>
@@ -38,7 +38,7 @@
 
 
 
-## Tech Stack 🖥:<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/techstack.gif" width="29"/>
+## Tech Stack 🖥:
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -57,9 +57,7 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
-<h3>Projects</h3>
-<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/project(1).gif" width="29"/>
-
+## Projects ✍️:
 <h4><a href="">VediCode</a></h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
@@ -114,7 +112,7 @@
 
 </div>
 
-<h3>Contact Me</h3>
+## Contact Me 🌐 :
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/contact.gif" width="29"/>
 <p align="center">
   <a href="mailto:abhinandandaksh@gmail.com">
