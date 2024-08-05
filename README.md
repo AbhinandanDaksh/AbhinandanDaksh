@@ -20,11 +20,14 @@
   <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume_.jpg" width="51" />
 </a>
 
+
 <h3>Academics</h3>
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/giphy.gif" width="29"/>
 <p>R D Engineering College 2024</p>
 <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/GPA-7.8-EFEEE9?style=for-the-badge"></span>
+
+
 
 <h3>Experience</h3>
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/exprience.gif" width="29"/>
@@ -33,6 +36,8 @@
   <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li>
   <li>Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.</li>
 </ul>
+
+
 
 <h3>Tech Stack</h3>
 <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/techstack.gif" width="29"/>
