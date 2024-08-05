@@ -111,8 +111,7 @@
 </div>
 
 
-## Contact Me 🌐 :
-<img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/contact.gif" width="29"/>
+## Contact Me 🌐:
 <p align="center">
   <a href="mailto:abhinandandaksh@gmail.com">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Gmail" style="height:100px">
