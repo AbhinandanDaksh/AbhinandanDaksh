@@ -77,6 +77,25 @@
   <li>User Profiles and Leaderboards: Profiles showcasing user achievements and leaderboards to highlight top performers.</li>
 </ul>
 
+<h4><a href="https://weather-app-eight-black-10.vercel.app/">Connectify</a></h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Razorpay-0C2451.svg?style=for-the-badge&logo=Razorpay&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white">
+  
+</p>
+<ul>
+  <li>Developed a ReactJS-based web application for user networking, featuring real-time messaging, profile management, and a feed system.</li>
+  <li>Designed and implemented a responsive UI using Tailwind CSS, delivering a consistent experience across devices.</li>
+  <li>Built a secure authentication system with JWT and Node.js, ensuring safe user login and registration.</li>
+</ul>
+
 <h4><a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a></h4>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
