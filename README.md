@@ -30,6 +30,13 @@
 
 
 ## Experience 🏫: 
+<p> Full Stack Developer at Jewar International Technologies Private Limited</p>
+<ul>
+  <li>Developed and optimized interactive UI components using React.js for enhanced user experience.</li>
+  <li>Implemented API integrations with Node.js and Express.js, improving system efficiency.</li>
+  <li>Enhanced performance and responsiveness, reducing load time by 20%.</li>
+</ul>
+
 <p>Intern at ICT Academy</p>
 <ul>
   <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li>
