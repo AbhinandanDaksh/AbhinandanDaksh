@@ -236,6 +236,26 @@ const abhinandan = {
 
 </div>
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:abhinandandaksh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/abhinandan-daksh-788a9a243/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/_abhinandan_daksh_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://x.com/Abhinandan_2712">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
+  <a href="https://abhinandan-daksh27.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  </a>
+</p>
+
 ---
 
 ## 😂 Random Dev Joke
