@@ -114,7 +114,7 @@ const abhinandan = {
 > Full-stack **habit tracking app** to build, monitor, and maintain daily habits with streaks and progress insights.
 > Clean, responsive UI with personalized dashboards and habit completion tracking.
  
-&nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
+&nbsp;[🔗 Live Demo](https://www.getritmico.com/) &nbsp; [⌥ Source Code](#)
  
 ---
  
@@ -167,7 +167,7 @@ const abhinandan = {
 > Scraped vendor data from **7 countries** via Puppeteer with dynamic filtering.
 > **Stripe** payments + **OneSignal** real-time notifications.
  
-&nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
+
  
 ---
  
