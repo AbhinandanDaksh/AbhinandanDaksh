@@ -99,11 +99,28 @@ const abhinandan = {
 ---
 
 ## 🚀 Featured Projects
-
+ 
 <div align="center">
-
+ 
+### 🌟 Ritmoco — *Multi-Role Business Platform* &nbsp; `⭐ Featured`
+ 
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)](.)
+[![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
+ 
+> Multi-role platform with **Admin, Business & User** panels featuring onboarding, course creation and enrollment workflows.
+> **Real-time notifications**, **Stripe** payments, and a fully responsive modern UI.
+ 
+&nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
+ 
+---
+ 
 ### 🎓 VediCode — *E-Learning Platform*
-
+ 
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
 [![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
 [![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
@@ -112,16 +129,16 @@ const abhinandan = {
 [![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=Razorpay&logoColor=white)](.)
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white)](.)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](.)
-
+ 
 > Full-stack learning platform with seamless **video playback**, **course tracking**, and leaderboards.
 > Integrated **Razorpay** for secure payments and **Cloudinary** for optimized media delivery.
-
+ 
 &nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
-
+ 
 ---
-
+ 
 ### 💬 Connectify — *Real-Time Communication Platform*
-
+ 
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)](.)
 [![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
@@ -129,16 +146,16 @@ const abhinandan = {
 [![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
 [![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)](.)
 [![OneSignal](https://img.shields.io/badge/-OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white)](.)
-
+ 
 > Real-time chat platform with **live messaging**, **user presence** tracking & responsive UI.
 > Secure **JWT authentication** and push notifications via OneSignal.
-
+ 
 &nbsp;[🔗 Live Demo](https://connectify-xi-plum.vercel.app/login) &nbsp; [⌥ Source Code](#)
-
+ 
 ---
-
+ 
 ### 🦞 CrawFish — *Multi-Panel Crawfish Marketplace*
-
+ 
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
 [![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
@@ -146,15 +163,27 @@ const abhinandan = {
 [![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
 [![OneSignal](https://img.shields.io/badge/-OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white)](.)
 [![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)](.)
-
+ 
 > Multi-panel marketplace with **User, Admin, Restaurant & Business Claim** panels.
 > Scraped vendor data from **7 countries** via Puppeteer with dynamic filtering.
 > **Stripe** payments + **OneSignal** real-time notifications.
-
+ 
 &nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
-
+ 
+---
+ 
+### 🛒 Jas Store — *E-Commerce Frontend*
+ 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](.)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](.)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](.)
+ 
+> Clean e-commerce UI with intuitive **category navigation**, **product listings**, and a fully functional **shopping cart** with checkout flow.
+ 
+&nbsp;[🔗 Live Demo](https://abhinandandaksh.github.io/JasStoreProject/) &nbsp; [⌥ Source Code](#)
+ 
 </div>
-
+ 
 ---
 
 ## 🛠️ Tech Stack
