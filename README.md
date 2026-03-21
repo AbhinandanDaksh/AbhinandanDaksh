@@ -108,34 +108,44 @@ const abhinandan = {
 
 <div align="center">
 
-| # | Project | Stack | Highlights | Links |
-|---|---------|-------|------------|-------|
-| 🎓 | **VediCode** | React · Node · MongoDB · Razorpay · Redux | E-learning with video playback, payments & leaderboards | [🔗 Demo](#) [⌥ Code](#) |
-| 💬 | **Connectify** | React · Socket.io · Node · JWT · OneSignal | Real-time chat + live presence + push notifications | [🔗 Demo](https://connectify-xi-plum.vercel.app/login) [⌥ Code](#) |
-| 🦞 | **CrawFish** | React · Node · Puppeteer · Stripe · Tailwind | Multi-panel marketplace + 7-country data scraping | [🔗 Demo](#) [⌥ Code](#) |
-| ☁️ | **Weather App** | React · JS · Weather API | Real-time weather + geolocation | [🔗 Demo](https://weather-app-eight-black-10.vercel.app/) [⌥ Code](#) |
-| 🛒 | **Jas Store** | HTML · CSS · JS | E-commerce UI with shopping cart | [🔗 Demo](https://abhinandandaksh.github.io/JasStoreProject/) [⌥ Code](#) |
+### 🎓 VediCode — *Full-Stack Learning Platform*
+
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
+[![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=Razorpay&logoColor=white)](.)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white)](.)
+
+> Responsive learning platform with seamless video playback, course tracking & modern UI/UX. Integrated **Razorpay** for secure payments and **Cloudinary** for optimized media delivery.
+
+---
+
+### 💬 Connectify — *Real-Time Communication Platform*
+
+[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)](.)
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
+
+> Real-time chat platform with live messaging, user presence detection & responsive UI. Implemented **OneSignal** push notifications and smooth full-stack integration.
+
+---
+
+### 🌟 Harena — *(Lead Developer)*
+
+[![Vue3](https://img.shields.io/badge/-Vue%203-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](.)
+[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
+[![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](.)
+
+> Led development of a multi-role platform (Admin, Business, User) with onboarding, course creation & enrollment workflows. Integrated **Stripe** payments & **FCM** real-time notifications.
 
 </div>
 
-### 🦞 CrawFish — Deep Dive
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  CRAWFISH MARKETPLACE                                        │
-│                                                             │
-│  👤 User Panel    🛡️ Admin Panel                            │
-│  🍽️ Restaurant    🏢 Business Claim Panel                   │
-│                                                             │
-│  🌍 Vendor data from: USA · Canada · Australia ·            │
-│                       UK · Germany · France · Japan         │
-│                                                             │
-│  💳 Stripe Payments  🔔 OneSignal Notifications             │
-│  🕷️ Puppeteer Scraping  🔍 Dynamic Filtering                │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
+
 
 ## 🛠️ Tech Stack
 
