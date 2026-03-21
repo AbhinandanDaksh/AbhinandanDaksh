@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhinandan%20Daksh&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Real-Time%20Apps&descAlignY=58&descSize=18" />
 
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhinandan+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Real-Time+Apps+%7C+Socket.io+%7C+REST+APIs;Building+Products+That+Matter+%F0%9F%94%A5" alt="Typing SVG" />
+<img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhinandan+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Real-Time+Apps+%7C+Socket.io+%7C+REST+APIs;Building+Products+That+Matter+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 </div>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="50%" alt="coding gif"/>
+<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="50%" alt="coding gif"/>
 
 ---
 
