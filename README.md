@@ -197,7 +197,7 @@ const abhinandan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=tokyonight&hide_border=true" height="170"/>
 </div>
