@@ -100,20 +100,19 @@ const abhinandan = {
 
 ## 🚀 Featured Projects
  
+
 <div align="center">
  
-### 🌟 Ritmoco — *Multi-Role Business Platform* &nbsp; `⭐ Featured`
+### 🌟 Ritmoco — *Habit Tracker App* &nbsp; `⭐ Featured`
  
 [![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
 [![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
 [![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)](.)
-[![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
  
-> Multi-role platform with **Admin, Business & User** panels featuring onboarding, course creation and enrollment workflows.
-> **Real-time notifications**, **Stripe** payments, and a fully responsive modern UI.
+> Full-stack **habit tracking app** to build, monitor, and maintain daily habits with streaks and progress insights.
+> Clean, responsive UI with personalized dashboards and habit completion tracking.
  
 &nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
  
