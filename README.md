@@ -138,7 +138,7 @@ const abhinandan = {
 > Full-stack learning platform with seamless **video playback**, **course tracking**, and leaderboards.
 > Integrated **Razorpay** for secure payments and **Cloudinary** for optimized media delivery.
  
-&nbsp;[🔗 Live Demo](#) &nbsp; [⌥ Source Code](#)
+&nbsp;[🔗 Live Demo](https://vedicode-original.vercel.app/) &nbsp; [⌥ Source Code](#)
  
 ---
  
