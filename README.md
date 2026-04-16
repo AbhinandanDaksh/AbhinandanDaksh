@@ -64,7 +64,7 @@ const abhinandan = {
 - 🌱 Exploring **advanced Socket.io**, **data scraping**, and **cloud deployments**
 - 💬 Ask me about **React.js · Node.js · MongoDB · REST APIs · Socket.io**
 - ⚡ Reduced backend API load time by **20%** in production
-- 📄 **[Download My Resume](https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume.jpg)**
+- 📄 **[Download My Resume](https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/icons/AbhinandanDaksh-Resume_page-0001(1).jpg)**
 
 <br clear="right"/>
 
