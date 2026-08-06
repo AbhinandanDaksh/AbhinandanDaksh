@@ -40,7 +40,7 @@ status: open to select opportunities — always happy to talk tech
 ```
 
 <p align="left">
-<a href="https://github.com/AbhinandanDaksh/AbhinandanDaksh/raw/main/AbhinandanDaksh-Resume.pdf">
+<a href="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/AbhinandanDaksh-Resume.pdf">
 <img src="https://img.shields.io/badge/📄_Download_Resume-38BDF8?style=for-the-badge&logoColor=white"/>
 </a>
 </p>
