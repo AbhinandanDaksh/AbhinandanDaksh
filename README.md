@@ -46,26 +46,35 @@
 ## 🧑‍💻 About Me
 
 - 📍 Based in **Ghaziabad, India** 🇮🇳
-- 🔭 Currently building at **Jewar International Technologies Pvt. Ltd.**
-- 🌱 Exploring **advanced Socket.io**, **web scraping at scale**, and **cloud deployments**
-- ⚡ Reduced backend API load time by **20%** in production
-- 🌏 Built pipelines that scrape and process vendor data from **7 countries**
-- 💬 Ask me about **React.js · Node.js · MongoDB · REST APIs · Socket.io**
+- 🔭 Currently building at **Alobha Technologies**
+- 🚀 Solo-built and launched **[Ritmico](https://www.getritmico.com/)** — a live habit-tracking SaaS — from scratch with Next.js
+- 🌏 Built scraping pipelines processing **1,000+ vendor records/day** across **7 countries**
+- 💬 Ask me about **React.js · Next.js · Node.js · MongoDB · REST APIs · Socket.io**
 - 🎯 Open to select opportunities — always happy to connect and talk tech
-- 📄 **[Download My Resume](#)** &nbsp;<sub>(replace with your PDF link)</sub>
+- 📄 **[Download My Resume](https://github.com/AbhinandanDaksh/AbhinandanDaksh/raw/main/AbhinandanDaksh-Resume.pdf)** &nbsp;<sub>(upload the PDF to your repo at this path)</sub>
 
 ---
 
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Full Stack Developer — Jewar International Technologies Pvt. Ltd.</b> &nbsp;<code>Dec 2024 – Present</code></summary>
+<summary><b>🏢 Full Stack Developer — Alobha Technologies</b> &nbsp;<code>May 2026 – Present</code></summary>
 <br/>
 
-- 🎨 Built fully responsive UI using **React.js**, **Tailwind CSS**, and **Context API**
-- 💬 Implemented **real-time chat** with Socket.io & **push notifications** via OneSignal
-- 🌍 Scraped vendor data from **7 countries** using Puppeteer → visualized via Chart.js
-- ⚡ RESTful APIs with Node.js + Express.js + MongoDB — **cut load time by 20%**
+- 🔐 Built and integrated secure REST APIs with **authentication** and **role-based access control (RBAC)**
+- 🗄️ Optimized database queries, improving application performance and security
+- 🤝 Collaborated cross-functionally to ship features, fix production issues, and deploy via **Agile** workflows
+
+</details>
+
+<details>
+<summary><b>🏢 Full Stack Developer — Jewar International Technologies Pvt. Ltd., Noida</b> &nbsp;<code>Dec 2024 – May 2026</code></summary>
+<br/>
+
+- 🎨 Built a highly responsive multi-device UI with React.js, Tailwind CSS & Context API — **95% mobile compatibility** for **50+ daily users**
+- 💬 Built real-time **Socket.io** chat supporting **10+ concurrent users** + OneSignal push notifications
+- 🌍 Large-scale web scraping with Puppeteer across **7 countries** — **1,000+ records/day**
+- ⚡ Optimized REST APIs (Node.js/Express/MongoDB) — **improved response time by 20%**
 
 </details>
 
@@ -73,9 +82,9 @@
 <summary><b>🏢 Full Stack Developer — Innovixion Tech</b> &nbsp;<code>Aug 2024 – Nov 2024</code></summary>
 <br/>
 
-- 📚 Built a full-stack **e-learning platform** with React.js, Node.js, and Tailwind CSS
+- 📚 Built a full-stack **e-learning platform** with React.js, Node.js, Express.js, and Tailwind CSS — video playback, progress tracking, course management
 - 💳 Integrated **Razorpay** for secure payments
-- ☁️ Set up **Cloudinary** for optimized media upload, storage, and delivery
+- ☁️ **Cloudinary** CDN integration — **cut content load time by 40%**, boosted engagement by **25%**
 
 </details>
 
@@ -94,14 +103,14 @@
 
 <div align="center">
 
-### 🌟 Ritmoco — *Habit Tracker App* &nbsp;`⭐ Featured`
+### 🌟 Ritmico — *Habit Tracking SaaS (Solo-built)* &nbsp;`⭐ Featured`
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-> Full-stack **habit tracking app** to build, monitor, and maintain daily habits with streaks and progress insights.
+> Built solo from scratch — full-stack SaaS with **JWT authentication**, user dashboards, streak monitoring, and personalized progress analytics. **Live in production with real users.**
 
 [🔗 Live Demo](https://www.getritmico.com/)
 
@@ -114,7 +123,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=Razorpay&logoColor=white)
 
-> Full-stack learning platform with **video playback**, **course tracking**, and leaderboards. Integrated **Razorpay** payments and **Cloudinary** media delivery.
+> Feature-rich e-learning platform serving **200+ registered users** — video streaming, real-time progress tracking, and analytics. Handles **500+ course videos** via Razorpay payments and Cloudinary CDN.
 
 [🔗 Live Demo](https://vedicode-original.vercel.app/)
 
@@ -140,7 +149,7 @@
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
 
-> Multi-panel marketplace with **User, Admin, Restaurant & Business Claim** panels. Scraped vendor data from **7 countries** via Puppeteer, with **Stripe** payments and real-time notifications.
+> B2B marketplace with **4 distinct panels** (User, Admin, Restaurant, Business). Automated vendor aggregation from **7 countries** via Puppeteer — **1,000+ vendor listings** with advanced filtering, Stripe payments, and OneSignal notifications.
 
 ---
 
@@ -165,8 +174,9 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Database**
