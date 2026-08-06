@@ -49,7 +49,7 @@ status: open to select opportunities — always happy to talk tech
 
 ## 💼 Experience
 
-<table width="100%">
+<table width="100%" align="center" >
 <tr>
 <td width="100%">
 
