@@ -2,7 +2,6 @@
 <!--                    ABHINANDAN DAKSH — README                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhinandan%20Daksh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=18" />
@@ -100,85 +99,118 @@ status: open to select opportunities — always happy to talk tech
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
+<h3>🌟 Ritmico</h3>
+<b>Habit-Tracking SaaS · Solo-built</b>
 
-### 🌟 Ritmico
-**Habit-Tracking SaaS · Solo-built**
+<br/><br/>
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-Full-stack SaaS with JWT auth, user dashboards, streak monitoring, and personalized progress analytics. **Live in production with real users.**
+<br/><br/>
 
-**[🔗 Live Demo →](https://www.getritmico.com/)**
+Full-stack SaaS with JWT auth, user dashboards, streak monitoring, and personalized progress analytics.<br/>**Live in production with real users.**
+
+<br/>
+
+**[🔗 View Live Demo](https://www.getritmico.com/)**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
+<h3>🎓 VediCode</h3>
+<b>E-Learning Platform</b>
 
-### 🎓 VediCode
-**E-Learning Platform**
+<br/><br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
+<br/><br/>
+
 Serves **200+ registered users** with video streaming, real-time progress tracking, and **500+ course videos** via Razorpay + Cloudinary.
 
-**[🔗 Live Demo →](https://vedicode-original.vercel.app/)**
+<br/>
+
+**[🔗 View Live Demo](https://vedicode-original.vercel.app/)**
 
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
+<h3>💬 Connectify</h3>
+<b>Real-Time Communication Platform</b>
 
-### 💬 Connectify
-**Real-Time Communication Platform**
+<br/><br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
 
-Live messaging with real-time user presence, secure JWT auth, and push notifications.
+<br/><br/>
 
-**[🔗 Live Demo →](https://connectify-xi-plum.vercel.app/login)**
+Real-time chat with live messaging, live user presence tracking, secure JWT auth, and push notifications.
+
+<br/>
+
+**[🔗 View Live Demo](https://connectify-xi-plum.vercel.app/login)**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
+<h3>🦞 CrawFish</h3>
+<b>Multi-Panel Marketplace</b>
 
-### 🦞 CrawFish
-**Multi-Panel Marketplace**
+<br/><br/>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
 
+<br/><br/>
+
 B2B marketplace with 4 panels (User/Admin/Restaurant/Business). Automated vendor aggregation — **1,000+ listings** across 7 countries, Stripe payments.
+
+<br/><br/>
 
 </td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
+<h3>🛒 Jas Store</h3>
+<b>E-Commerce Frontend</b>
 
-### 🛒 Jas Store
-**E-Commerce Frontend**
+<br/><br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Clean UI with category navigation, product listings, and full checkout flow.
+<br/><br/>
 
-**[🔗 Live Demo →](https://abhinandandaksh.github.io/JasStoreProject/)**
-
-</td>
-<td width="50%" valign="top">
+Clean e-commerce UI with category navigation, product listings, and a fully functional checkout flow.
 
 <br/>
 
-> 💡 More on my [GitHub profile](https://github.com/AbhinandanDaksh?tab=repositories) — always shipping something new.
+**[🔗 View Live Demo](https://abhinandandaksh.github.io/JasStoreProject/)**
+
+</td>
+<td align="center" width="50%" valign="top">
+<h3>✨ More Projects</h3>
+<b>Always shipping something new</b>
+
+<br/><br/>
+
+Check out my full repository list for more experiments, tools, and side-projects.
+
+<br/><br/>
+
+**[🔗 Browse All Repos](https://github.com/AbhinandanDaksh?tab=repositories)**
 
 </td>
 </tr>
