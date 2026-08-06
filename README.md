@@ -110,7 +110,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-> Built solo from scratch — full-stack SaaS with **JWT authentication**, user dashboards, streak monitoring, and personalized progress analytics. **Live in production with real users.**
+Built solo from scratch — full-stack SaaS with **JWT authentication**, user dashboards, streak monitoring, and personalized progress analytics. **Live in production with real users.**
 
 [🔗 Live Demo](https://www.getritmico.com/)
 
@@ -123,7 +123,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=Razorpay&logoColor=white)
 
-> Feature-rich e-learning platform serving **200+ registered users** — video streaming, real-time progress tracking, and analytics. Handles **500+ course videos** via Razorpay payments and Cloudinary CDN.
+Feature-rich e-learning platform serving **200+ registered users** — video streaming, real-time progress tracking, and analytics. Handles **500+ course videos** via Razorpay payments and Cloudinary CDN.
 
 [🔗 Live Demo](https://vedicode-original.vercel.app/)
 
@@ -136,7 +136,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
-> Real-time chat platform with **live messaging**, **user presence** tracking, secure **JWT auth**, and push notifications.
+Real-time chat platform with **live messaging**, **user presence** tracking, secure **JWT auth**, and push notifications.
 
 [🔗 Live Demo](https://connectify-xi-plum.vercel.app/login)
 
@@ -149,7 +149,7 @@
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
 
-> B2B marketplace with **4 distinct panels** (User, Admin, Restaurant, Business). Automated vendor aggregation from **7 countries** via Puppeteer — **1,000+ vendor listings** with advanced filtering, Stripe payments, and OneSignal notifications.
+B2B marketplace with **4 distinct panels** (User, Admin, Restaurant, Business). Automated vendor aggregation from **7 countries** via Puppeteer — **1,000+ vendor listings** with advanced filtering, Stripe payments, and OneSignal notifications.
 
 ---
 
@@ -159,7 +159,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Clean e-commerce UI with **category navigation**, **product listings**, and a fully functional **shopping cart** with checkout flow.
+Clean e-commerce UI with **category navigation**, **product listings**, and a fully functional **shopping cart** with checkout flow.
 
 [🔗 Live Demo](https://abhinandandaksh.github.io/JasStoreProject/)
 
