@@ -35,38 +35,24 @@
 
 <div align="center">
 
-<!-- sab upar wala content -->
+> 🚀 I build real-time, full-stack products end-to-end — from React UIs to Node/MongoDB backends that scale.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="50%" margin:40px auto alt="coding gif"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="45%" alt="coding gif"/>
 
 </div>
 
+---
 
 ## 🧑‍💻 About Me
 
-
-```javascript
-const abhinandan = {
-  location  : "Ghaziabad, India 🇮🇳",
-  role      : "Full Stack Developer",
-  company   : "Jewar International Technologies",
-  stack     : ["React", "Node.js", "Express", "MongoDB"],
-  superpower: "20% load time reduction 🚀",
-  learning  : ["WebSockets", "Puppeteer", "System Design"],
-  funFact   : "I scrape data from 7 countries 🌏",
-  openTo    : "Exciting Opportunities 👀"
-};
-```
-
-<br/>
-
+- 📍 Based in **Ghaziabad, India** 🇮🇳
 - 🔭 Currently building at **Jewar International Technologies Pvt. Ltd.**
-- 🌱 Exploring **advanced Socket.io**, **data scraping**, and **cloud deployments**
-- 💬 Ask me about **React.js · Node.js · MongoDB · REST APIs · Socket.io**
+- 🌱 Exploring **advanced Socket.io**, **web scraping at scale**, and **cloud deployments**
 - ⚡ Reduced backend API load time by **20%** in production
-- 📄 **[Download My Resume](https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/AbhinandanDaksh-Resume.jpg)**
-
-<br clear="right"/>
+- 🌏 Built pipelines that scrape and process vendor data from **7 countries**
+- 💬 Ask me about **React.js · Node.js · MongoDB · REST APIs · Socket.io**
+- 🎯 Open to select opportunities — always happy to connect and talk tech
+- 📄 **[Download My Resume](#)** &nbsp;<sub>(replace with your PDF link)</sub>
 
 ---
 
@@ -105,109 +91,83 @@ const abhinandan = {
 ---
 
 ## 🚀 Featured Projects
- 
 
 <div align="center">
- 
-### 🌟 Ritmoco — *Habit Tracker App* &nbsp; `⭐ Featured`
- 
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
-[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
-[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
- 
-> Full-stack **habit tracking app** to build, monitor, and maintain daily habits with streaks and progress insights.
-> Clean, responsive UI with personalized dashboards and habit completion tracking.
- 
-&nbsp;[🔗 Live Demo](https://www.getritmico.com/) &nbsp; [⌥ Source Code](#)
- 
----
- 
-### 🎓 VediCode — *E-Learning Platform*
- 
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
-[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
-[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
-[![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=Razorpay&logoColor=white)](.)
-[![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white)](.)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](.)
- 
-> Full-stack learning platform with seamless **video playback**, **course tracking**, and leaderboards.
-> Integrated **Razorpay** for secure payments and **Cloudinary** for optimized media delivery.
- 
-&nbsp;[🔗 Live Demo](https://vedicode-original.vercel.app/) &nbsp; [⌥ Source Code](#)
- 
----
- 
-### 💬 Connectify — *Real-Time Communication Platform*
- 
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
-[![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)](.)
-[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
-[![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)](.)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](.)
-[![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)](.)
-[![OneSignal](https://img.shields.io/badge/-OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white)](.)
- 
-> Real-time chat platform with **live messaging**, **user presence** tracking & responsive UI.
-> Secure **JWT authentication** and push notifications via OneSignal.
- 
-&nbsp;[🔗 Live Demo](https://connectify-xi-plum.vercel.app/login) &nbsp; [⌥ Source Code](#)
- 
----
- 
-### 🦞 CrawFish — *Multi-Panel Crawfish Marketplace*
- 
-[![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](.)
-[![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](.)
-[![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](.)
-[![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)](.)
-[![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)](.)
-[![OneSignal](https://img.shields.io/badge/-OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white)](.)
-[![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)](.)
- 
-> Multi-panel marketplace with **User, Admin, Restaurant & Business Claim** panels.
-> Scraped vendor data from **7 countries** via Puppeteer with dynamic filtering.
-> **Stripe** payments + **OneSignal** real-time notifications.
- 
 
- 
+### 🌟 Ritmoco — *Habit Tracker App* &nbsp;`⭐ Featured`
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+> Full-stack **habit tracking app** to build, monitor, and maintain daily habits with streaks and progress insights.
+
+[🔗 Live Demo](https://www.getritmico.com/)
+
 ---
- 
+
+### 🎓 VediCode — *E-Learning Platform*
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=Razorpay&logoColor=white)
+
+> Full-stack learning platform with **video playback**, **course tracking**, and leaderboards. Integrated **Razorpay** payments and **Cloudinary** media delivery.
+
+[🔗 Live Demo](https://vedicode-original.vercel.app/)
+
+---
+
+### 💬 Connectify — *Real-Time Communication Platform*
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+> Real-time chat platform with **live messaging**, **user presence** tracking, secure **JWT auth**, and push notifications.
+
+[🔗 Live Demo](https://connectify-xi-plum.vercel.app/login)
+
+---
+
+### 🦞 CrawFish — *Multi-Panel Crawfish Marketplace*
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
+
+> Multi-panel marketplace with **User, Admin, Restaurant & Business Claim** panels. Scraped vendor data from **7 countries** via Puppeteer, with **Stripe** payments and real-time notifications.
+
+---
+
 ### 🛒 Jas Store — *E-Commerce Frontend*
- 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](.)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](.)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](.)
- 
-> Clean e-commerce UI with intuitive **category navigation**, **product listings**, and a fully functional **shopping cart** with checkout flow.
- 
-&nbsp;[🔗 Live Demo](https://abhinandandaksh.github.io/JasStoreProject/) &nbsp; [⌥ Source Code](#)
- 
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+> Clean e-commerce UI with **category navigation**, **product listings**, and a fully functional **shopping cart** with checkout flow.
+
+[🔗 Live Demo](https://abhinandandaksh.github.io/JasStoreProject/)
+
 </div>
- 
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages & Markup**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Database**
 
@@ -215,23 +175,11 @@ const abhinandan = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Integrations & Services**
+**Integrations & Tools**
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=Razorpay&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white)
-
-**Tools & DevOps**
-
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -276,14 +224,6 @@ const abhinandan = {
 └──────────────────────────────────────────────────────┘
 ```
 
-</div>
-
----
-
-## 😂 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%2300d9ff&aColor=%2300d9ff&borderColor=%2330363d" alt="Jokes Card"/>
 </div>
 
 ---
