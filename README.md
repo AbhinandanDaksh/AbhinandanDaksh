@@ -21,10 +21,11 @@
 <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/AbhinandanDaksh?style=for-the-badge&color=38BDF8&labelColor=0F172A&logo=github&label=FOLLOWERS"/>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="45%" alt="coding gif"/>
+
 
 
 </div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="45%" alt="coding gif"/>
 
 <br/>
 
