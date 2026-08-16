@@ -25,8 +25,10 @@
 
 
 </div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="45%" alt="coding gif" align="center"/>
 
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphZW4xNXIyZ3loZmo3djY5ZWlqMjM3MWp4ZmE3aXRoZHowdTZobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="45%" alt="coding gif" align="center"/>
+</div>
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
