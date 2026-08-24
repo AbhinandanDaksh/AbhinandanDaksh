@@ -257,12 +257,12 @@ Check out my full repository list for more experiments, tools, and side-projects
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhinandanDaksh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
   <img src="https://streak-stats.demolab.com?user=AbhinandanDaksh&theme=tokyonight&hide_border=true" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" height="190"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" height="190"/>
 </div>
 
 <div align="center">
