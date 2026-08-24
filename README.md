@@ -258,7 +258,7 @@ Check out my full repository list for more experiments, tools, and side-projects
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhinandanDaksh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinandanDaksh&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=AbhinandanDaksh&theme=tokyonight&hide_border=true" height="175"/>
 </div>
 
 <div align="center">
