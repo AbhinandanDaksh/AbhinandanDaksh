@@ -265,8 +265,13 @@ Check out my full repository list for more experiments, tools, and side-projects
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhinandanDaksh&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" height="190"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AbhinandanDaksh&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div> -->
+<div align="center">
+  <img src="https://img.shields.io/github/stars/AbhinandanDaksh?style=for-the-badge&color=38BDF8&labelColor=0F172A"/>
+  <img src="https://img.shields.io/github/last-commit/AbhinandanDaksh/AbhinandanDaksh?style=for-the-badge&color=38BDF8&labelColor=0F172A"/>
+  <img src="https://img.shields.io/badge/Total_Commits-836-38BDF8?style=for-the-badge&labelColor=0F172A"/>
 </div>
 
 <div align="center">
