@@ -4,6 +4,7 @@
 
 <div align="center">
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhinandan%20Daksh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Abhinandan+%F0%9F%91%8B;I+build+full-stack+products+end-to-end;React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Socket.io;Solo-founder+of+Ritmico+%F0%9F%9A%80" alt="Typing SVG" />
