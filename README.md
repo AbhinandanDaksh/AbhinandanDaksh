@@ -266,7 +266,7 @@ Check out my full repository list for more experiments, tools, and side-projects
 </div>
 
 <div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=AbhinandanDaksh&theme=tokyonight&no-frame=true&row=1&column=6"/>
+ <img src="https://github-readme-trophies.vercel.app/?username=AbhinandanDaksh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 </div>
 
 <div align="center">
