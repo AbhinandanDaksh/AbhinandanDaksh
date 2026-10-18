@@ -106,125 +106,78 @@ status: open to select opportunities — always happy to talk tech
 
 ## 🚀 Featured Projects
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%" valign="top">
-<h3>🌟 Ritmico</h3>
-<b>Habit-Tracking SaaS · Solo-built</b>
-
-<br/><br/>
+### 🌟 Ritmico
+**Habit-Tracking SaaS · Solo-built**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<br/><br/>
-
-Full-stack SaaS with JWT auth, user dashboards, streak monitoring, and personalized progress analytics.<br/>**Live in production with real users.**
-
-<br/>
+Full-stack SaaS with JWT auth, user dashboards, streak monitoring, and personalized progress analytics.  
+**Live in production with real users.**
 
 **[🔗 View Live Demo](https://www.getritmico.com/)**
 
-</td>
-<td align="center" width="50%" valign="top">
-<h3>🎓 VediCode</h3>
-<b>E-Learning Platform</b>
+---
 
-<br/><br/>
+### 🎓 VediCode
+**E-Learning Platform**
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
 
-<br/><br/>
-
 Serves **200+ registered users** with video streaming, real-time progress tracking, and **500+ course videos** via Razorpay + Cloudinary.
-
-<br/>
 
 **[🔗 View Live Demo](https://vedicode-original.vercel.app/)**
 
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<h3>💬 Connectify</h3>
-<b>Real-Time Communication Platform</b>
+---
 
-<br/><br/>
+### 💬 Connectify
+**Real-Time Communication Platform**
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
 
-<br/><br/>
-
 Real-time chat with live messaging, live user presence tracking, secure JWT auth, and push notifications.
-
-<br/>
 
 **[🔗 View Live Demo](https://connectify-xi-plum.vercel.app/login)**
 
-</td>
-<td align="center" width="50%" valign="top">
-<h3>🦞 CrawFish</h3>
-<b>Multi-Panel Marketplace</b>
+---
 
-<br/><br/>
+### 🦞 CrawFish
+**Multi-Panel Marketplace**
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
 
-<br/><br/>
-
 B2B marketplace with 4 panels (User/Admin/Restaurant/Business). Automated vendor aggregation — **1,000+ listings** across 7 countries, Stripe payments.
 
-<br/><br/>
+---
 
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td align="center" width="50%" valign="top">
-<h3>🛒 Jas Store</h3>
-<b>E-Commerce Frontend</b>
-
-<br/><br/>
+### 🛒 Jas Store
+**E-Commerce Frontend**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/><br/>
-
 Clean e-commerce UI with category navigation, product listings, and a fully functional checkout flow.
-
-<br/>
 
 **[🔗 View Live Demo](https://abhinandandaksh.github.io/JasStoreProject/)**
 
-</td>
-<td align="center" width="50%" valign="top">
-<h3>✨ More Projects</h3>
-<b>Always shipping something new</b>
+---
 
-<br/><br/>
+### ✨ More Projects
+**Always shipping something new**
 
 Check out my full repository list for more experiments, tools, and side-projects.
 
-<br/><br/>
-
 **[🔗 Browse All Repos](https://github.com/AbhinandanDaksh?tab=repositories)**
 
-</td>
-</tr>
-</table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
